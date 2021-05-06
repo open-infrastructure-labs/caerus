@@ -1,0 +1,8 @@
+[submodule "caerus-dikeHDFS"]
+	path = caerus-dikeHDFS
+	url = https://github.com/open-infrastructure-labs/caerus-dikeHDFS.git
+	branch = main
+[submodule "caerus-ndp"]
+	path = caerus-ndp
+	url = https://github.com/open-infrastructure-labs/caerus-ndp.git
+	branch = main

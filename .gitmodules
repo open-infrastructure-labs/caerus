@@ -6,3 +6,11 @@
 	path = caerus-dike
 	url = https://github.com/open-infrastructure-labs/caerus-dike.git
 	branch = master
+[submodule "caerus-udf"]
+	path = caerus-udf
+	url = https://github.com/open-infrastructure-labs/caerus-udf.git
+	branch = master
+[submodule "caerus-semantic-cache"]
+	path = caerus-semantic-cache
+	url = https://github.com/open-infrastructure-labs/caerus-semantic-cache.git
+	branch = master
